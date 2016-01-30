@@ -1,0 +1,2 @@
+Prim: 0.269610011578 seconds
+Kruskal: 0.00200000524521 seconds
